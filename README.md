@@ -24,10 +24,9 @@ This script converts website logins only—not cards, personal details, separate
 
 ### 2. Download the script
 
-- Open [the script on GitHub Gist](https://gist.github.com/Quasijames/e8f9e01d548365739807dda2354f5079).
-- Click **Download ZIP**.
-- Open the downloaded ZIP file.
-- Copy **`Convert-SecurePass.ps1`** into your **Downloads** folder.
+- Click Convert-SecurePass.ps1 in this repository.
+- Click Download raw file.
+- Save it in your Downloads folder.
 
 ### 3. Check your files
 
